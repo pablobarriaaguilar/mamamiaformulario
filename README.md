@@ -1,3 +1,11 @@
+IMPORTANTE CREDENCIALES PARA EL LOGIN!!!!
+Email: email123@gmail.cl
+Contraseña: 123123
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
