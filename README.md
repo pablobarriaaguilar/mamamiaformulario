@@ -1,4 +1,6 @@
-IMPORTANTE CREDENCIALES PARA EL LOGIN!!!!
+##IMPORTANTE CREDENCIALES PARA EL LOGIN!!!!
+
+```bash
 Email: email123@gmail.cl
 Contraseña: 123123
 
